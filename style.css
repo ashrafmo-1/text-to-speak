@@ -26,6 +26,7 @@ h2 {
     margin-bottom: 20px;
     text-align: center;
     text-decoration: underline;
+    text-transform: uppercase;
 }
 
 textarea {
