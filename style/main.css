@@ -55,7 +55,7 @@ textarea {
 
 @media(max-width:500px) {
     textarea {
-        width: 200px;
+        width: 290px;
     }
 }
 
@@ -74,7 +74,7 @@ button {
 
 svg {
     position: absolute;
-    top: 380px;
+    top: 315px;
     z-index: -1;
     width: 100%;
     margin: auto;
